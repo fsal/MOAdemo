@@ -1,0 +1,29 @@
+10000 instances
+
+ Drift: true
+
+10000 instances processed with 77.67% accuracy in 4.78125 seconds.
+
+10000 instances processed with 79.86% accuracy in 4.03125 seconds.
+
+10000 instances processed with 80.15% accuracy in 3.5625 seconds.
+
+10000 instances processed with 80.3% accuracy in 4.046875 seconds.
+
+10000 instances processed with 78.38% accuracy in 3.859375 seconds.
+
+
+
+10000 instances processed with 63.09% accuracy in 374.484375 seconds.
+
+10000 instances processed with 63.09% accuracy in 388.515625 seconds.
+
+10000 instances processed with 63.09% accuracy in 392.828125 seconds.
+
+10000 instances processed with 63.09% accuracy in 411.390625 seconds.
+
+10000 instances processed with 63.09% accuracy in 385.578125 seconds.
+
+
+
+

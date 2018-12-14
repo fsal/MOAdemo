@@ -1,0 +1,18 @@
+5000 instances
+
+ Drift: true
+
+5000 instances processed with 73.36% accuracy in 1.40625 seconds.
+
+5000 instances processed with 76.86% accuracy in 1.40625 seconds.
+
+5000 instances processed with 76.02% accuracy in 1.046875 seconds.
+
+5000 instances processed with 77.68% accuracy in 1.140625 seconds.
+
+5000 instances processed with 78.54% accuracy in 0.9375 seconds.
+
+
+
+5000 instances processed with 90.4% accuracy in 192.65625 seconds.
+

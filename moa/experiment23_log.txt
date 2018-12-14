@@ -1,0 +1,29 @@
+10000 instances
+
+ Drift: false stream
+
+10000 instances processed with 74.07% accuracy in 0.359375 seconds.
+
+10000 instances processed with 73.27% accuracy in 0.125 seconds.
+
+10000 instances processed with 74.46% accuracy in 0.125 seconds.
+
+10000 instances processed with 75.0% accuracy in 0.140625 seconds.
+
+10000 instances processed with 76.78% accuracy in 0.15625 seconds.
+
+
+
+10000 instances processed with 89.46% accuracy in 0.6875 seconds.
+
+10000 instances processed with 89.46% accuracy in 0.265625 seconds.
+
+10000 instances processed with 89.46% accuracy in 0.203125 seconds.
+
+10000 instances processed with 89.46% accuracy in 0.203125 seconds.
+
+10000 instances processed with 89.46% accuracy in 0.171875 seconds.
+
+
+
+

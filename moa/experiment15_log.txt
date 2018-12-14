@@ -1,0 +1,29 @@
+100000 instances
+
+ Drift: false rbfstream
+
+100000 instances processed with 86.234% accuracy in 1.703125 seconds.
+
+100000 instances processed with 86.977% accuracy in 1.171875 seconds.
+
+100000 instances processed with 86.107% accuracy in 1.109375 seconds.
+
+100000 instances processed with 86.182% accuracy in 1.046875 seconds.
+
+100000 instances processed with 84.794% accuracy in 1.0625 seconds.
+
+
+
+100000 instances processed with 93.971% accuracy in 306.3125 seconds.
+
+100000 instances processed with 93.971% accuracy in 325.84375 seconds.
+
+100000 instances processed with 93.971% accuracy in 355.296875 seconds.
+
+100000 instances processed with 93.971% accuracy in 291.1875 seconds.
+
+100000 instances processed with 93.971% accuracy in 299.0 seconds.
+
+
+
+

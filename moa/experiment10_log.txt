@@ -1,0 +1,29 @@
+1000 instances
+
+ Drift: true solo static
+
+1000 instances processed with 70.2% accuracy in 0.171875 seconds.
+
+1000 instances processed with 73.3% accuracy in 0.046875 seconds.
+
+1000 instances processed with 67.5% accuracy in 0.015625 seconds.
+
+1000 instances processed with 68.8% accuracy in 0.015625 seconds.
+
+1000 instances processed with 67.4% accuracy in 0.015625 seconds.
+
+
+
+1000 instances processed with 51.0% accuracy in 300.015625 seconds.
+
+1000 instances processed with 51.0% accuracy in 296.34375 seconds.
+
+1000 instances processed with 51.0% accuracy in 295.109375 seconds.
+
+1000 instances processed with 51.0% accuracy in 295.9375 seconds.
+
+1000 instances processed with 51.0% accuracy in 293.09375 seconds.
+
+
+
+

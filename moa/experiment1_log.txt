@@ -1,0 +1,49 @@
+1000 instances
+
+ Drift: false
+
+1000 instances processed with 84.6% accuracy in 0.203125 seconds.
+
+1000 instances processed with 85.0% accuracy in 0.15625 seconds.
+
+1000 instances processed with 84.3% accuracy in 0.140625 seconds.
+
+1000 instances processed with 83.5% accuracy in 0.09375 seconds.
+
+1000 instances processed with 86.6% accuracy in 0.15625 seconds.
+
+1000 instances processed with 85.9% accuracy in 0.125 seconds.
+
+1000 instances processed with 86.3% accuracy in 0.09375 seconds.
+
+1000 instances processed with 85.8% accuracy in 0.109375 seconds.
+
+1000 instances processed with 85.2% accuracy in 0.09375 seconds.
+
+1000 instances processed with 83.6% accuracy in 0.09375 seconds.
+
+
+
+1000 instances processed with 96.0% accuracy in 53.765625 seconds.
+
+1000 instances processed with 96.0% accuracy in 54.359375 seconds.
+
+1000 instances processed with 96.0% accuracy in 53.25 seconds.
+
+1000 instances processed with 96.0% accuracy in 53.390625 seconds.
+
+1000 instances processed with 96.0% accuracy in 53.5625 seconds.
+
+1000 instances processed with 96.0% accuracy in 53.21875 seconds.
+
+1000 instances processed with 96.0% accuracy in 53.328125 seconds.
+
+1000 instances processed with 96.0% accuracy in 53.015625 seconds.
+
+1000 instances processed with 96.0% accuracy in 46.703125 seconds.
+
+1000 instances processed with 96.0% accuracy in 46.90625 seconds.
+
+
+
+

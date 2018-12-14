@@ -1,0 +1,29 @@
+100000 instances
+
+ Drift: false rbf entrambi
+
+100000 instances processed with 86.234% accuracy in 1.671875 seconds.
+
+100000 instances processed with 86.977% accuracy in 1.203125 seconds.
+
+100000 instances processed with 86.107% accuracy in 1.203125 seconds.
+
+100000 instances processed with 86.182% accuracy in 1.125 seconds.
+
+100000 instances processed with 84.794% accuracy in 1.078125 seconds.
+
+
+
+100000 instances processed with 93.971% accuracy in 340.046875 seconds.
+
+100000 instances processed with 93.971% accuracy in 314.71875 seconds.
+
+100000 instances processed with 93.971% accuracy in 301.671875 seconds.
+
+100000 instances processed with 93.971% accuracy in 325.21875 seconds.
+
+100000 instances processed with 93.971% accuracy in 327.5 seconds.
+
+
+
+

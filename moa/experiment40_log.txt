@@ -1,0 +1,29 @@
+500000 instances
+
+ Drift: false treegenerator
+
+500000 instances processed with 93.275% accuracy in 4.375 seconds.
+
+500000 instances processed with 93.2766% accuracy in 3.609375 seconds.
+
+500000 instances processed with 93.3526% accuracy in 3.390625 seconds.
+
+500000 instances processed with 93.4188% accuracy in 3.484375 seconds.
+
+500000 instances processed with 93.338% accuracy in 3.609375 seconds.
+
+
+
+500000 instances processed with 99.7848% accuracy in 13.703125 seconds.
+
+500000 instances processed with 99.7848% accuracy in 12.90625 seconds.
+
+500000 instances processed with 99.7848% accuracy in 13.3125 seconds.
+
+500000 instances processed with 99.7848% accuracy in 13.1875 seconds.
+
+500000 instances processed with 99.7848% accuracy in 12.90625 seconds.
+
+
+
+
